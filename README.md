@@ -1,6 +1,6 @@
 # PageMarker - 页码标注工具
 
-基于 .NET Framework 4.7.2 + SunnyUI 的图片页码批量标注工具。
+基于 .NET Framework 4.7.2 的图片页码批量标注工具。
 
 ## 功能概述
 
